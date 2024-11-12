@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rutuja2207
-- 👀 I’m interested in Machine Learing 
-- 🌱 I’m currently learning All Machine Learing Algorithms
-- 💞️ I’m looking to collaborate on Data Science 
+- 👀 I’m interested in Data Visualization and Data Anlaysis
+- 🌱 I’m currently learning All Machine Learing Algorithms And Data Visualization Tools
+- 💞️ I’m looking to collaborate on Data Analysis 
 - 📫 How to reach me rutujakhairnar212@gmail.com
 
 <!---
